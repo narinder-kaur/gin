@@ -1,4 +1,4 @@
-module github.com/nariner-kaur/gin
+module github.com/narinder-kaur/gin
 
 go 1.13
 
